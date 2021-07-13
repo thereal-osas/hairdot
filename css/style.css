@@ -8670,8 +8670,7 @@ h1, h2, h3, h4, h5,
   }
   @media {
    .app{
-    margin-bottom: 100px;
-    padding-bottom: 150px;
+    margin-bottom: 250px;
     }
   }
   @media {
