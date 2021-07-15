@@ -8483,6 +8483,7 @@ h1, h2, h3, h4, h5,
         .owl-carousel.home-slider .slider-item .slider-text .one-third {
           width: 65%;
           position: relative;
+          padding-bottom: 20px;
           z-index: -1;
           background-position: center center; }
           .owl-carousel.home-slider .slider-item .slider-text .one-third .overlay {
@@ -8670,7 +8671,8 @@ h1, h2, h3, h4, h5,
   }
   @media {
    .app{
-    margin-bottom: 250px;
+    margin-bottom: 100px;
+    padding-bottom: 170px;
     }
   }
   @media {
